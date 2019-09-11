@@ -1,0 +1,314 @@
+.statusbar{
+	width: 100%;
+	height: 60px;
+	background-color: #fac769;
+	margin: 0px;
+	padding: 0px;
+	position: -webkit-sticky;
+  position: fixed;
+  top: 0;
+}
+.slider{
+	width: 100%;
+	height: 800px;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+}
+.slidertext{
+	position: absolute;
+  bottom: 50px;
+  left: 40px;  
+ color: #232323;
+  padding-left: 75px;
+  padding-right: 20px;
+ font-size: 20px;
+ font-family: 'Poppins', sans-serif;
+ font-weight: bold;
+}
+.button{
+	padding: 15px;
+    background: #fff;
+    border: none;
+    border-radius: 22px;
+}
+body{
+	margin: 0px;
+}
+.sliderimg{width: 100%;}
+.section2{
+	width: 100%;
+
+}
+span{
+	color: #232323;
+  padding-left: 75px;
+  padding-right: 20px;
+  margin-top: 30px;
+ font-size: 32px;
+ font-family: 'Poppins', sans-serif;
+ font-weight: normal;
+ display: inline-block;
+}
+p{
+	color: #232323;
+  padding-left: 75px;
+  padding-right: 120px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ font-size: 16px;
+ font-family: 'Rubik', sans-serif;
+ font-weight: normal;
+
+}
+.section3{
+	width: 100%;
+	background-color: #fac769;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: white;
+}
+.section4{
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.boxes{
+	width: 100%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.box1{
+	width: 370px;
+	height: 400px;
+	background-color: #fac769;
+	
+	display: inline-block;
+	margin-left: 15px;
+    margin-right: 15px;
+}
+.box2{
+	width: 370px;
+	height: 400px;
+	background-color: #fac769;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: inline-block;
+	margin-left: 15px;
+    margin-right: 15px;
+}
+.box3{
+	width: 370px;
+	height: 400px;
+	background-color: #fac769;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: inline-block;
+	margin-left: 15px;
+    margin-right: 15px;
+}
+h4{
+	color: black;
+  padding-left: 15px;
+  
+  padding-top: 10px;
+  padding-bottom: 10px;
+ font-size: 16px;
+ font-family: 'Rubik', sans-serif;
+ font-weight: bold;
+ margin: 0px;
+
+}
+h5{
+	color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+ font-size: 16px;
+ font-family: 'Rubik', sans-serif;
+ font-weight: normal;
+ margin: 0px;
+
+}
+.section5{
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.boxgallery{
+	width: 100%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.boxes2{
+	width: 100%;
+}
+.boxaa{
+	width: 275px;
+	height: 184px;
+	display: inline-block;
+	margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+.hurrycontainer{
+	width: 100%
+	height:300px;
+	background-color: #fac769;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+h3{
+	color: white;
+	margin-left: 100px;
+	padding-top: 20px;
+  
+ font-size: 16px;
+ font-family: 'Rubik', sans-serif;
+ font-weight: normal;
+  display: inline-block;
+}
+h2{
+	color: white;
+	margin-left: 100px;
+	
+  padding-bottom: 20px;
+ font-size: 36px;
+ font-family: 'Rubik', sans-serif;
+ font-weight: bold; 
+display: inline-block;  
+}
+.button2{
+	padding: 15px;
+    background: #fff;
+    border: none;
+    border-radius: 22px;
+    margin-left: 200px;
+}
+.section6{
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.section1 {
+    height: 100vh;
+    overflow: hidden;
+    background: url(../images/malte-wingen-381988-1920x1280.jpg) left;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.section7{
+	width: 100%;
+	color: black;
+}
+h6{
+	color: black;
+	text-align: center;
+	font-size: 30px;
+ font-family: 'Rubik', sans-serif;
+ font-weight: normal; 
+ margin: 0px;
+
+}
+.textbox{
+	width: 200%;
+	color: red;
+}
+.textbox1{
+	width: 275px;
+	height: 184px;
+	display: inline-block;
+	margin-left: 34px;
+    margin-right: 5px;
+    margin-top: 20px;
+    color: #767676;
+}
+.textbox2{
+	width: 275px;
+	height: 184px;
+	display: inline-block;
+	margin-left: 34px;
+    margin-right: 5px;
+    margin-top: 20px;
+    color: #767676;
+}
+.textbox3{
+	width: 275px;
+	height: 184px;
+	display: inline-block;
+	margin-left: 34px;
+    margin-right: 5px;
+    margin-top: 20px;
+    color: #767676;
+}
+.textbox4{
+	width: 275px;
+	height: 184px;
+	display: inline-block;
+	margin-left: 34px;
+    margin-right: 5px;
+    margin-top: 20px;
+    color: #767676;
+}
+a{
+	color: orange;
+}
+.textbox p{
+	font-size: 15px;
+ font-family: 'Rubik', sans-serif;
+ font-style: normal;
+    line-height: 1.6;
+ color: #767676;
+ margin-bottom: 20px;
+ margin: 0px;
+    padding: 0px
+}
+.textbox1 h1,.textbox2 h1,.textbox3 h1,.textbox4 h1{
+	font-size: 17px;
+ font-family: 'Rubik', sans-serif;
+ 
+ color: black;
+ margin: 0px;
+    margin-bottom: 20px;
+
+}
+.textboxx h1{
+	font-size: 17px;
+ font-family: 'Rubik', sans-serif;
+ 
+	color: #757373;
+	text-align: center;
+}
+.textboxx center{
+	font-size: 37px;
+ font-family: 'Rubik', sans-serif;  
+	color: black;
+	text-align: center;
+	margin:0px;
+	padding: 0px;
+}
+.fcontainer{
+	width: 100%;
+	background-color: white;
+}
+.logo img{
+	    width: 80px;
+	    height: 80px;
+	    margin-left: 160px;
+    margin-top: 20px;
+    display: inline-block;
+
+}
+.fcontainer p{
+	    margin-left: 138px;
+	text-align: center;
+	color: #767676;
+	display: inline-block;
+
+}
+.logo{
+	display: inline-block;
+}
