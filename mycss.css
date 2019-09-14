@@ -7,6 +7,7 @@
 	position: -webkit-sticky;
   position: fixed;
   top: 0;
+	 z-index: 9;
 }
 .slider{
 	width: 100%;
@@ -316,4 +317,7 @@ a{
 }
 .logo{
 	display: inline-block;
+}
+.statusbar img{
+	padding-left: 111px;
 }
