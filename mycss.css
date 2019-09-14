@@ -14,7 +14,7 @@
 	display: inline-block;
 	margin: 0px;
 	padding: 0px;
-	background-image: url("20150913_101407.jpg");
+	background-image: url("20150913_101407.jpg");    background-size: cover;
 }
 .slidertext{
 	position: absolute;
